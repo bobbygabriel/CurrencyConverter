@@ -17,7 +17,7 @@ public class Converter {
 		int currency2 = 0;
 		
 		
-		System.out.println("Enter 1 for US dollar");
+		System.out.println("Enter 1 for US dollar.");
 		currency1 = scan.nextInt();
 		
 		
